@@ -91,7 +91,7 @@
             // 
             // Guardarbutton
             // 
-            this.Guardarbutton.Location = new System.Drawing.Point(62, 266);
+            this.Guardarbutton.Location = new System.Drawing.Point(80, 266);
             this.Guardarbutton.Name = "Guardarbutton";
             this.Guardarbutton.Size = new System.Drawing.Size(166, 23);
             this.Guardarbutton.TabIndex = 6;
